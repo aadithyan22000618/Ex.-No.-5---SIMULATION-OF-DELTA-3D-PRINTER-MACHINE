@@ -31,8 +31,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Aadithyan R
+### Register Number:212222230001
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
